@@ -1,2 +1,2 @@
-echo # 42-piscine-reloaded
 # 42-piscine-reloaded
+My first project at Ecole 42
